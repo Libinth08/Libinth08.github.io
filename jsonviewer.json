@@ -60,6 +60,10 @@
       "name": "Realmzer",
       "address": "https://anisette.realmzer.xyz/"
     }
+    {
+    "name": "Libinth 08",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "https://github.com/Libinth08/Libinth08.github.io.git"
+}
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
